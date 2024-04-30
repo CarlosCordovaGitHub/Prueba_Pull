@@ -1,2 +1,2 @@
-# Prueba_Pull
+# Repositorio para practicar GitHub
 Repositorio para practicar GitPull
